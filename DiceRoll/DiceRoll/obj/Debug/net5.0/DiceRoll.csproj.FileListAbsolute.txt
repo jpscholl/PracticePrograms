@@ -1,0 +1,16 @@
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.exe
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.deps.json
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.runtimeconfig.json
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.runtimeconfig.dev.json
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.dll
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\ref\DiceRoll.dll
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\bin\Debug\net5.0\DiceRoll.pdb
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.csproj.AssemblyReference.cache
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.AssemblyInfo.cs
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.dll
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\ref\DiceRoll.dll
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.pdb
+C:\Users\jpsch\source\repos\DiceRoll\DiceRoll\obj\Debug\net5.0\DiceRoll.genruntimeconfig.cache
